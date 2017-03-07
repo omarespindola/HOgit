@@ -1,4 +1,4 @@
-# HOgit de Omar (Esto fue editado por primera vez dentro de la rama master)
+# HOgit de Omar (Esto fue editado por segunda vez dentro de la rama charlas)
 Repositorio con ejercicios para practicar comandos básicos de git
 
 ## Qué podemos hacer
